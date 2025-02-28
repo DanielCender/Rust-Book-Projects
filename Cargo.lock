@@ -113,6 +113,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "11cd88e12b17c6494200a9c1b683a04fcac9573ed74cd1b62aeb2727c5592243"
 
 [[package]]
+name = "variables"
+version = "0.1.0"
+
+[[package]]
 name = "wasi"
 version = "0.11.0+wasi-snapshot-preview1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
